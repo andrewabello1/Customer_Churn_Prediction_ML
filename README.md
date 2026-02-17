@@ -42,7 +42,7 @@ The model was further optimized by lowering the classification threshold to impr
 - **numpy** 
 - **scikit-learn** 
 - **xgboost** 
-- **matplotlib – Data visualization  
+- **matplotlib** – Data visualization  
 
 ---
 
